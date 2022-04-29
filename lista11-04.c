@@ -4,6 +4,7 @@
 int main() 
 {
 
+    
     char str[1000], ch;
     int count = 0;
 
