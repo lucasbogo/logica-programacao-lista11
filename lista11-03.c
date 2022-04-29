@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
+// needs to be re-coded to fit the wording logic on question 3; count only 'a'.
 
 int main() 
 {
